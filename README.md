@@ -9,7 +9,7 @@ We need to use Glam API to display dynamic data in an interesting way. Other req
 
 ![alt text](https://i.postimg.cc/8P0pT98k/Flipboard-inpairation.png)
 
->  Design insparation
+>  Design inspiration
 
  I got some ideas of the UI interface design to implant into codes to develop my API sketch for this challenging project. It was a little hard at first and I was very confused about where to start but with the help of Canvas Modules set up By Dr, Ben with API to HTML1 and API to HTML 2 and Geolocation codes link also referred to Github made it easy and some ideas of the project made it little easy to understand of project requirements. After going through research and documentation I had to do a front and back end development of the web app which was quite challenging and interesting. After the code developments, I had to check on the local server and see how it looks. The API of NMA was not displaying some of the images so I got some images manually to look interactive with the UI interface. After getting some feedback from Dr, Ben I tried to improve some of the UI problems. I learnt a lot through this project and found how data can be displayed through API and how to deliver to the user with the UI-friendly interface. Now it’s time to upload to the hosting server and see how it is up and running. I first utilized Github pages hosting to deployed the app project.Then I also tried on an other server to check how its up and ruuing .The project also needs to be on GitHub to make it public and link to Canvas.Throuhg this project I learnt a lot how to use Github pages and how to create the markdown file.
  # Please visit my on Github [App](https://imran18.github.io/Museum-Web-App-2/)
